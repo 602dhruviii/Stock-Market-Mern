@@ -46,6 +46,9 @@ npm start
 - HTML/CSS
 - JavaScript
 
-##Screenshots
+## Screenshots
+### Update and Add
 ![photo1](./Images/photo1.png)
+
+### View Portfolios
 ![photo2](./Images/photo2.png)
